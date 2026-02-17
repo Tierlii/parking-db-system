@@ -30,8 +30,6 @@ The system supports multiple user roles and manages parking sessions, reservatio
 
 Arseni Terletski — Business Information Technology student
 
-Eduard Andrianov — Business Information Technology student
-
 Illian Tommik — Business Information Technology student
 
 Daniil Rakitin — Business Information Technology student
